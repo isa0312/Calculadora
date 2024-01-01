@@ -1,1 +1,3 @@
 # Calculadora
+
+HTML / CSS / JavaScript
